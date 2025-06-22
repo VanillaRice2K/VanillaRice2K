@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+Just started working with GitHub.
+I'm a big Power BI guy, so I will probably have a few projects loaded up here.
+I'm also learning about Azure, so I will likely have templates, Powershell or Terraform scripts here too.
+Otherwise, I'm just playing around with the tool.
 <!--
 **VanillaRice2K/VanillaRice2K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
